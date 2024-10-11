@@ -1,0 +1,25 @@
+cat: .: Is a directory
+cat: ├──: No such file or directory
+cat: ├──: No such file or directory
+cat: ├──: No such file or directory
+cat: ├──: No such file or directory
+cat: ├──: No such file or directory
+cat: lua: Is a directory
+cat: │  : No such file or directory
+cat: └──: No such file or directory
+cat: core: No such file or directory
+cat: │  : No such file or directory
+cat: ├──: No such file or directory
+cat: keymaps.lua: No such file or directory
+cat: │  : No such file or directory
+cat: ├──: No such file or directory
+cat: plugins.lua: No such file or directory
+cat: │  : No such file or directory
+cat: └──: No such file or directory
+cat: settings.lua: No such file or directory
+cat: ├──: No such file or directory
+cat: └──: No such file or directory
+cat: 3: No such file or directory
+cat: directories,: No such file or directory
+cat: 9: No such file or directory
+cat: files: No such file or directory
